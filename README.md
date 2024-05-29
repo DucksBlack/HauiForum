@@ -1,3 +1,3 @@
 # edu-forum
 
-https://github.com/DucksBlack/HauiForum.git
+FE link: https://drive.google.com/drive/folders/1mwZvMO0FtEur4HIjB9m3OOEDcmQYBYQa?usp=drive_link
